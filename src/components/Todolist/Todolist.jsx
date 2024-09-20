@@ -61,7 +61,7 @@ export default function Todolist() {
   return (
     <>
       <div className="w-full">
-        <h1 className="font-display font-extrabold text-3xl m-10 text-third">To do List</h1> {/* Titolo della pagina */}
+        <h1 className="font-display font-extrabold text-3xl m-10 text-third">📝 To do List 📝</h1> {/* Titolo della pagina */}
 
         <div className="input w-full justify-around grid grid-cols-10">
           {/* Campo di input per scrivere un nuovo task */}
